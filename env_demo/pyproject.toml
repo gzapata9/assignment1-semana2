@@ -1,10 +1,10 @@
 [project]
 name = "env-demo"
 version = "0.1.0"
-description = "Add your description here"
+description = "assignment1-semana2-repositorio"
 readme = "README.md"
 authors = [
-    { name = "gzapata9", email = "guillermozapata99@gmail.com" }
+    { name = "gzapata9", email = "202643002@alu.comillas.edu" }
 ]
 requires-python = ">=3.12"
 dependencies = [
